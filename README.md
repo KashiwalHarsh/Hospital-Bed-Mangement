@@ -28,14 +28,14 @@ These instructions will guide you on setting up and running the web application 
    ```
    cd hospital-bed-management
    ```
-   
-3. Navigate to the backend directory:
+4. Make another tab in terminal:
+
+5. Navigate to the backend directory:
    ```
    cd backend
    ```
-4. make another tab in terminal for client directory:
 
-5. Navigate to the client directory:
+5. On another tab Navigate to the client directory:
    ```
    cd client
    ```

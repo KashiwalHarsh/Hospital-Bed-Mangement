@@ -28,20 +28,29 @@ These instructions will guide you on setting up and running the web application 
    ```
    cd hospital-bed-management
    ```
+4. Make another tab in terminal:
 
-3. Install the required dependencies using npm:
+5. Navigate to the backend directory:
+   ```
+   cd backend
+   ```
+
+5. On another tab Navigate to the client directory:
+   ```
+   cd client
+   ```
+
+6. Install the required dependencies using npm on both client and backend directory:
    ```
    npm install
    ```
 
-4. Configure the application by creating a `.env` file and providing the necessary environment variables. You can use the `.env.example` file as a template.
-
-5. Start the application:
+7. Start the application on both client and backend directory:
    ```
    npm start
    ```
 
-6. Access the web application in your web browser by visiting `http://localhost:3000`.
+6. Access the web application in your web browser by visiting `http://localhost:3000/patients`.
 
 ## Usage
 
@@ -63,12 +72,7 @@ Contributions to this project are welcome. To contribute, follow these steps:
 
 Please ensure that your code adheres to the existing coding style and that you have included appropriate tests for your changes.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
 ## Acknowledgments
 
-We would like to express our gratitude to all contributors who have helped make this project possible.
+I would like to express my gratitude to my fellow teammates who have helped make this project possible.
 
-If you have any questions or feedback, please contact us at [email protected]

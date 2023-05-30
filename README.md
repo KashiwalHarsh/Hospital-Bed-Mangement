@@ -77,6 +77,6 @@ Please ensure that your code adheres to the existing coding style and that you h
 On 20-21st April I participated in an International Hackathon.
 This project is the outcome of the Hackathon. we worked on This Health-Tech problem and dedicated 24 hours to developing an application that shows the availability of beds in hospitals nearby.
 
-I would like to express my gratitude to my fellow teammates who have helped make this project possible.
+I would like to express my gratitude to my fellow teammates who have helped make this project possible. Without our dedicated efforts and teamwork it would not have been possible to make this application work
 
-![IMG_20230428_114753](https://github.com/KashiwalHarsh/Hospital-Bed-Mangement/assets/77677724/5d1006e4-6aa4-47d6-b1e0-45b34a49bd66)
+![IMG_20230428_114753](https://github.com/KashiwalHarsh/Hospital-Bed-Mangement/assets/77677724/5d1006e4-6aa4-47d6-b1e0-45b34a49bd66){:height="500px" width="500px"}.

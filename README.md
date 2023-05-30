@@ -79,4 +79,4 @@ This project is the outcome of the Hackathon. we worked on This Health-Tech prob
 
 I would like to express my gratitude to my fellow teammates who have helped make this project possible. Without our dedicated efforts and teamwork it would not have been possible to make this application work
 
-![IMG_20230428_114753](https://github.com/KashiwalHarsh/Hospital-Bed-Mangement/assets/77677724/5d1006e4-6aa4-47d6-b1e0-45b34a49bd66){:height="500px" width="500px"}.
+![IMG_20230428_114753](https://github.com/KashiwalHarsh/Hospital-Bed-Mangement/assets/77677724/5d1006e4-6aa4-47d6-b1e0-45b34a49bd66 | width=500px)
